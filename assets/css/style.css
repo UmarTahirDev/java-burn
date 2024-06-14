@@ -352,4 +352,7 @@
     .ser_box{
       width: 100%;
     }
+    footer>div:nth-child(1)>ul{
+      gap:10px;
+    }
   }
